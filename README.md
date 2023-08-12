@@ -29,4 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soul-8789&show_icons=true&locale=en" alt="soul-8789" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soul-8789&" alt="soul-8789" /></p>
+<p><img align="center" src="https://leetcard.jacoblin.cool/Soul_8789?theme=light&font=Syne%20Mono&ext=heatmap&" alt="soul-8789" /></p>
 
