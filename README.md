@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **baijnathmahto16@gmail.com**
 
-- ⚡ Fun fact **I think I am focus on my work.⭐⭐⭐**
+- ⚡ I am focused on my work.⭐⭐⭐**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
